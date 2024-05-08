@@ -1,0 +1,18 @@
+<ExportPresets LastType="Unity3DExport">
+  <Preset DisplayName="" Type="Unity3DExport">
+    <ExportSettings Type="Unity3DExport">
+      <Filename>C:\Users\marky\OneDrive\Documents\Possession\Unity\Assets\Possession.articyu3d</Filename>
+      <CustomSettings>
+        <Option Name="set_Localization" Value="False"/>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037934885" Enabled="0"/>
+        <State Id="72057594037934887" Enabled="0"/>
+        <State Id="72057594037949904" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037934882</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+</ExportPresets>

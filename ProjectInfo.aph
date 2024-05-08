@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>6E886A3ABA4332EF8250AF3A114161209BEDF82F96C3EA0DD6FCF80543313493</Signature>
+  <Content>
+    <Project Guid="8bb6967b-54fa-41bd-baff-f5c017c320bb">
+      <DisplayName Value="Possession"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="5e14b276-1d05-4a92-800a-064f30a25187"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638141507063288281"/>
+      <PartitionHash Value="32443E7D9772728148BC406BC9AEDDF902984AC8B683BA08CD9647B317F3CEB8"/>
+      <SaveFileVersion Value="56"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
