@@ -1,5 +1,5 @@
 <ProjectInfo Version="1">
-  <Signature>6E886A3ABA4332EF8250AF3A114161209BEDF82F96C3EA0DD6FCF80543313493</Signature>
+  <Signature>25961C77CD67092C4AF8912C40093E8EB3F9D36663401ADCB3116BC83EFF3B0F</Signature>
   <Content>
     <Project Guid="8bb6967b-54fa-41bd-baff-f5c017c320bb">
       <DisplayName Value="Possession"/>
@@ -11,7 +11,7 @@
       <ScmConfiguration Value=""/>
       <CreationTimeStamp Value="638141507063288281"/>
       <PartitionHash Value="32443E7D9772728148BC406BC9AEDDF902984AC8B683BA08CD9647B317F3CEB8"/>
-      <SaveFileVersion Value="56"/>
+      <SaveFileVersion Value="58"/>
       <ProjectType Value="0"/>
       <IsOnlineProject Value="False"/>
     </Project>

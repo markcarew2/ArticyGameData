@@ -1,4 +1,4 @@
-<ExportPresets LastType="Unity3DExport">
+<ExportPresets LastType="UnityExport">
   <Preset DisplayName="" Type="Unity3DExport">
     <ExportSettings Type="Unity3DExport">
       <Filename>C:\Users\marky\OneDrive\Documents\Possession\Unity\Assets\Possession.articyu3d</Filename>
@@ -10,6 +10,23 @@
       <PackageStates>
         <State Id="72057594037934885" Enabled="0"/>
         <State Id="72057594037934887" Enabled="0"/>
+        <State Id="72057594037949904" Enabled="1"/>
+      </PackageStates>
+      <SelectedRuleSet>72057594037934882</SelectedRuleSet>
+    </ExportSettings>
+  </Preset>
+  <Preset DisplayName="" Type="UnityExport">
+    <ExportSettings Type="UnityExport">
+      <Filename>C:\Users\marky\OneDrive\Documents\Possession\Unity\Assets\Possession.articyu3d</Filename>
+      <CustomSettings>
+        <Option Name="set_TextFormatter" Value="Unity"/>
+        <Option Name="set_IncludingAssets" Value="True"/>
+        <Option Name="set_IncludedNodes" Value="Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets, Languages"/>
+        <Option Name="set_UseResourcesFolder" Value="True"/>
+      </CustomSettings>
+      <PackageStates>
+        <State Id="72057594037934885" Enabled="1"/>
+        <State Id="72057594037934887" Enabled="1"/>
         <State Id="72057594037949904" Enabled="1"/>
       </PackageStates>
       <SelectedRuleSet>72057594037934882</SelectedRuleSet>
